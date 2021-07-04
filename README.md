@@ -14,15 +14,15 @@
   
  ## Contact me on
  <p align="center">
- <a href="https://www.linkedin.com/in/devlipe/" rel="nofollow">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="" rel="nofollow">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = 40>
  </a>
  &nbsp;&nbsp;
- <a href="https://www.instagram.com/lip__ee_/" rel="nofollow">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="https://www.instagram.com/be__happy_everyday/" rel="nofollow">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height = 40>
  </a>
  &nbsp;&nbsp;
- <a href="https://twitter.com/dev_lipe" rel="nofollow">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ <a href="https://mobile.twitter.com/anaMdeveloper" rel="nofollow">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=40>
  </a>
 </p>
