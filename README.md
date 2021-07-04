@@ -8,6 +8,6 @@
 <hr>
 <h3 align="center">Languages Skills</h2>
 <p align="center">
- <img src="https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-C%23-7B68EE?style=flat&logo=c-sharp&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-HTML-FF7F50?style=flat&logo=html5&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-CSS-1E90FF?style=flat&logo=css3&logoColor=white" height=30>
+ <img src="https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-C%23-7B68EE?style=flat&logo=c-sharp&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-CSS-1E90FF?style=flat&logo=css3&logoColor=white" height=30>
 </p>
 <hr>
