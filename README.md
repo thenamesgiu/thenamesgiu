@@ -1,4 +1,4 @@
-# Hi! I'm Ana Giulia
+# Hi! I'm Ana 
 ## About me
 - 💻 I'm a **software development student** at **ETEC Fernando Prestes**.
 - 🌎 Living in Salto de Pirapora - SP, Brazil.
