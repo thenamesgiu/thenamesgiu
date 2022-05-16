@@ -8,7 +8,7 @@
 <hr>
 <h3 align="center">Language and framework Skills (or learning...)</h2>
 <p align="center">
- <img src="https://img.shields.io/badge/Python-BD3B64?style=for-the-badge&logo=python&logoColor=white"  height=40> &nbsp;&nbsp; <img src = "https://img.shields.io/badge/PHP-A91946?style=for-the-badge&logo=php&logoColor=white" height=40> &nbsp;&nbsp; <img src = "https://img.shields.io/badge/C%2B%2B-BD3B64?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = 40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/C%23-A91946?style=for-the-badge&logo=c-sharp&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-BD3B64?style=for-the-badge&logo=html5&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-A91946?style=for-the-badge&logo=css3&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-BD3B64?style=for-the-badge&logo=javascript&logoColor=white" height = 40>  &nbsp;&nbsp; <img src = "https://img.shields.io/badge/MySQL-BD3B64?style=for-the-badge&logo=mysql&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-A91946?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height = 40> &nbsp;&nbsp; <img src = "https://img.shields.io/badge/.NET-BD3B64?style=for-the-badge&logo=dotnet&logoColor=white" height = 40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-A91946?style=for-the-badge&logo=nodedotjs&logoColor=white" height=40>
+ <img src="https://img.shields.io/badge/Python-BD3B64?style=for-the-badge&logo=python&logoColor=white"  height=40> &nbsp;&nbsp; <img src = "https://img.shields.io/badge/C%2B%2B-BD3B64?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = 40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/C%23-A91946?style=for-the-badge&logo=c-sharp&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-BD3B64?style=for-the-badge&logo=html5&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-A91946?style=for-the-badge&logo=css3&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-BD3B64?style=for-the-badge&logo=javascript&logoColor=white" height = 40>  &nbsp;&nbsp; <img src = "https://img.shields.io/badge/MySQL-BD3B64?style=for-the-badge&logo=mysql&logoColor=white" height=40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-A91946?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height = 40> &nbsp;&nbsp; <img src = "https://img.shields.io/badge/.NET-BD3B64?style=for-the-badge&logo=dotnet&logoColor=white" height = 40> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-A91946?style=for-the-badge&logo=nodedotjs&logoColor=white" height=40>
 </p>
 <hr>
   
@@ -20,10 +20,6 @@
  &nbsp;&nbsp;
  <a href="https://www.instagram.com/be__happy_everyday/" rel="nofollow">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height = 40>
- </a>
- &nbsp;&nbsp;
- <a href="https://mobile.twitter.com/anaMdeveloper" rel="nofollow">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=40>
  </a>
 </p>
 
