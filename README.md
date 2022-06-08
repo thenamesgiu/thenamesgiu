@@ -3,7 +3,6 @@
 - 💻 I'm a **software development student** at **ETEC Fernando Prestes**.
 - 🌎 From Brazil.
 - 🎨 I'm an artist on @be__happy_everyday (Instagram), doing digital art and pixel art.
-- 📚 Studying enough to create my own game one day.
 
 <hr>
 <h3 align="center">Language and framework Skills (or learning...)</h2>
