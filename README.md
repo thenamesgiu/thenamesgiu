@@ -1,6 +1,6 @@
 # Hi! I'm Ana 
 ## About me
-- 💻 I'm a **software development student** at **ETEC Fernando Prestes**.
+- 💻 I'm a System Development technician, curretly studying Analysis and System Development at FACENS (Faculdade de Engenharia de Sorocaba).
 - 🌎 From Brazil.
 - 🎨 I'm an artist on @be__happy_everyday (Instagram), doing digital art and pixel art.
 
