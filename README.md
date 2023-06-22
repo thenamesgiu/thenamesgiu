@@ -1,8 +1,8 @@
 <img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/welcome.gif">
 
-<hr>
+
 <img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/about.png">
-<hr>
+
 
 <hr>
 <img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/web.png">
