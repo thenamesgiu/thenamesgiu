@@ -1,10 +1,8 @@
 <img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/welcome.gif">
 
-# Hi! I'm Ana 
-## About me
-- 💻 I'm a System Development technician, curretly studying Analysis and System Development at FACENS (Faculdade de Engenharia de Sorocaba).
-- 🌎 From Brazil.
-- 🎨 I'm an artist on @be__happy_everyday (Instagram), doing digital art and pixel art.
+<hr>
+<img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/about.png">
+<hr>
 
 <hr>
 <img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/web.png">
