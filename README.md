@@ -1,4 +1,4 @@
-<img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/welcome.gif>
+<img src="https://github.com/thenamesgiu/thenamesgiu/blob/main/welcome.gif">
 
 # Hi! I'm Ana 
 ## About me
