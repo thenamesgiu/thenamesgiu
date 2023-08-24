@@ -10,7 +10,7 @@
   
  ## Contact me on
  <p align="center">
- <a href="https://www.linkedin.com/in/ana-giulia-de-lima-6174a3216/" rel="nofollow">
+ <a href="https://www.linkedin.com/in/ana-giulia/" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = 40>
  </a>
  &nbsp;&nbsp;
